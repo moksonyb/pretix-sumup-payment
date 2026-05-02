@@ -78,7 +78,7 @@ class SumUp(BasePaymentProvider):
                         label=_("Enable Alternative Payment Methods"),
                         required=False,
                         help_text=_(
-                            "Allow customers to pay using alternative payment methods like Apple Pay, Google Pay, iDEAL. <br>"
+                            "Allow customers to pay using alternative payment methods like Apple Pay, Google Pay, iDEAL | Wero. <br>"
                             "<i>The supported payment methods depend on the country of your SumUp account. </i>"
                             '<i><a href="https://developer.sumup.com/online-payments/apm/introduction" target="_blank">Learn more</a></i> <br>'
                             "<br>"

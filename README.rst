@@ -41,7 +41,7 @@ Alternative Payment Methods
 
    * Apple Pay
    * Google Pay
-   * iDEAL
+   * iDEAL | Wero
    * Other methods depending on your `SumUp account's country <https://developer.sumup.com/online-payments/apm/introduction#supported-alternative-payment-methods>`_
 
 2. **Apple Pay Setup**:
